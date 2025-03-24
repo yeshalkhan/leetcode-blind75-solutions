@@ -24,3 +24,5 @@ public:
         return count;
     }
 };
+
+// Approach 2: 
