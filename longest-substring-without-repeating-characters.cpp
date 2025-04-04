@@ -1,5 +1,5 @@
 // Approach 1: Make substrings from the given string and count no of characters. If a duplicate character is encountered, discard the substring and 
-// check if count > max. Make substring from the nect index adn repeat. Complexity: O(N*max)
+// check if count > max. Make substring from the next index and repeat. Complexity: O(N*max)
 
 class Solution1 {
 public:
